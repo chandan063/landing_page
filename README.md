@@ -1,2 +1,2 @@
 # landing_page
-creating landing for for various things
+# Product landing page using HTML AND CSS
